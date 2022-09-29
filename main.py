@@ -1,10 +1,3 @@
-//
-//  main.cpp
-//  stack
-//
-//  Created by Amanda Prawita Ningrum on 30/09/22.
-//
-
 # Python program to demonstrate
 # stack implementation using a linked list.
 # node class
